@@ -362,11 +362,11 @@ text-align: center;
 
   #image-wheel-1{
     display: block;
-    width:4.5%;
+    width:6.5%;
     height: auto;
     position: relative;
     top: 521px;
-    left: 65px;
+    left: 70px;
     z-index: 3;
     animation-name: wheel;
     animation-duration: 2.5s;
@@ -378,11 +378,11 @@ text-align: center;
 
   #image-wheel-2{
     display: block;
-    width: 4.5%;
+    width: 6.5%;
     height: auto;
     position: relative;
-    top: 447px;
-    left: 294px;
+    top: 455px;
+    left: 297px;
     z-index: 3;
     animation-name: wheel;
     animation-duration: 2.5s;
